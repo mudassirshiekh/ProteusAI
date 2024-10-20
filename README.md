@@ -2,7 +2,7 @@
 ![proteusAI](https://github.com/jonfunk21/ProteusAI/assets/74795032/14f3b29e-deb5-4357-af2e-e19618f7e363)
 
 
-
+# By Mudassir Alam
 # ProteusAI
 ProteusAI is a library for machine learning-guided protein design and engineering. 
 The library enables workflows from protein structure prediction, the prediction of 
